@@ -413,6 +413,11 @@ Portfolio Style
   padding: 60px 0;
   text-align: center;
 }
+
+section#portfolio div.container-fluid {
+    overflow: hidden;
+}
+
 #portfolio h2 {
   text-transform: uppercase;
 }
